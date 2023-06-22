@@ -1,0 +1,5 @@
+﻿  Tetris.cpp
+C:\games\elsfk\Tetris.cpp(41,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\games\elsfk\Tetris.cpp(52,7): warning C4101: “data”: 未引用的局部变量
+C:\games\elsfk\Tetris.cpp(201,10): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  俄罗斯方块.vcxproj -> C:\games\elsfk\Debug\俄罗斯方块.exe
